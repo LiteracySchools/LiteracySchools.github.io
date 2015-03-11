@@ -586,7 +586,7 @@ p.capitalize {
 }
 
 .team-info {
-    position: absolute;
+    /*position: absolute;*/
     bottom: 20px;
     right: 0px;
     width: 170px;
@@ -613,6 +613,10 @@ p.capitalize {
 
     .team-description i {
         margin: 8px;
+    }
+
+    .team-description a {
+        color: white;
     }
 
 /* Team Member Stats Icons Conf */
